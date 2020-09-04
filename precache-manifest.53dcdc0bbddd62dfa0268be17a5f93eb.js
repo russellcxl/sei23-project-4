@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0bc978b03fde29398ac89877ee2225a",
+    "revision": "115078b968552e353ca2d168744c48dc",
     "url": "/sei23-project-4/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sei23-project-4/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "cf9f35f8f4c1f312798b",
-    "url": "/sei23-project-4/static/css/main.34fc5280.chunk.css"
+    "revision": "2523391c395aef0473c3",
+    "url": "/sei23-project-4/static/css/main.c9be01ee.chunk.css"
   },
   {
     "revision": "c2687d7f7643944c01f9",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sei23-project-4/static/js/2.9cde4d54.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cf9f35f8f4c1f312798b",
-    "url": "/sei23-project-4/static/js/main.735d143d.chunk.js"
+    "revision": "2523391c395aef0473c3",
+    "url": "/sei23-project-4/static/js/main.d00bf349.chunk.js"
   },
   {
     "revision": "c84f16ef40e39339e3ce",
