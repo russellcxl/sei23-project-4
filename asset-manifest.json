@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sei23-project-4/static/css/main.34fc5280.chunk.css",
-    "main.js": "/sei23-project-4/static/js/main.58889d89.chunk.js",
-    "main.js.map": "/sei23-project-4/static/js/main.58889d89.chunk.js.map",
+    "main.js": "/sei23-project-4/static/js/main.735d143d.chunk.js",
+    "main.js.map": "/sei23-project-4/static/js/main.735d143d.chunk.js.map",
     "runtime-main.js": "/sei23-project-4/static/js/runtime-main.90a6c47a.js",
     "runtime-main.js.map": "/sei23-project-4/static/js/runtime-main.90a6c47a.js.map",
     "static/css/2.11829350.chunk.css": "/sei23-project-4/static/css/2.11829350.chunk.css",
     "static/js/2.9cde4d54.chunk.js": "/sei23-project-4/static/js/2.9cde4d54.chunk.js",
     "static/js/2.9cde4d54.chunk.js.map": "/sei23-project-4/static/js/2.9cde4d54.chunk.js.map",
     "index.html": "/sei23-project-4/index.html",
-    "precache-manifest.80312af87cb785fcc045c3636981141e.js": "/sei23-project-4/precache-manifest.80312af87cb785fcc045c3636981141e.js",
+    "precache-manifest.cc1b58b1d51dd7bf4997c9ff0998a0e6.js": "/sei23-project-4/precache-manifest.cc1b58b1d51dd7bf4997c9ff0998a0e6.js",
     "service-worker.js": "/sei23-project-4/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/sei23-project-4/static/css/2.11829350.chunk.css.map",
     "static/css/main.34fc5280.chunk.css.map": "/sei23-project-4/static/css/main.34fc5280.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.11829350.chunk.css",
     "static/js/2.9cde4d54.chunk.js",
     "static/css/main.34fc5280.chunk.css",
-    "static/js/main.58889d89.chunk.js"
+    "static/js/main.735d143d.chunk.js"
   ]
 }
